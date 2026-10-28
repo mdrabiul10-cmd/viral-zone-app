@@ -1,0 +1,7 @@
+{
+  "name": "Viral ZONE - Telegram Mini App",
+  "description": "Watch & Unlock Premium Videos, Series and Bangla Dubbed content with dynamic force subscribe, Adsterra step ads, and 10-minute session locks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
